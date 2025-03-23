@@ -13,12 +13,11 @@ Este é um projeto de **Landing Page** voltado para o setor alimentício, desenv
 
 ✔️ Design responsivo e adaptável para todos os dispositivos 📱💻  
 ✔️ Seções para apresentação de pratos, menu e contato  
-✔️ Botões interativos para facilitar o acesso do usuário  
-✔️ Estilização otimizada com Tailwind CSS  
+✔️ Botões interativos para facilitar o acesso do usuário   
 
 ## 🔗 Demonstração
 
-🔍 Acesse o projeto online: [Landing Page Food](https://seu-link-aqui.vercel.app)  
+🔍 Acesse o projeto online: [Landing Page Food](https://landing-page-food-eight.vercel.app)  
 📂 Código-fonte no GitHub: [GitHub.com/GabrielMaia21/Landing-Page-food](https://github.com/GabrielMaia21/Landing-Page-food)
 
 ## 🛠 Como Rodar Localmente
